@@ -8,4 +8,4 @@ git clone https://github.com/azurecz/appdev-day3.git
 cd appdev-day3
 ```
 
-## [module01 - serverless advanced sample(module01/)
+## [module01 - serverless advanced sample](module01/)
